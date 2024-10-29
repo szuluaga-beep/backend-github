@@ -12,3 +12,11 @@
 
 5. Crear main.py
 6. Correr servidor `fastapi dev main.py`
+
+7. En Azure el comando para iniciar la app en producción es:
+`fastapi run --workers 4 main.py`
+
+8. Instalar Testclient
+`pip install httpx`
+9. Instalar pytest
+`pip install pytest`
