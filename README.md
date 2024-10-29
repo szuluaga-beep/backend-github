@@ -1,7 +1,7 @@
 1. Crear virtual environment
 `python -m venv .venv`
 
-2. Activar virtual envoronment
+2. Activar virtual environment
 `.venv\Scripts\Activate.ps1`
 
 3. Instalar paquetes
